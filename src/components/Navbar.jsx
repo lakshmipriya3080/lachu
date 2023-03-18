@@ -12,7 +12,6 @@ const Navbar = () => {
     <AppBar position="static">
       <Toolbar>
         
-        
         <Typography align='left' variant="h6" component="div" sx={{ flexGrow: 1 }}>
          <Link to='/'>React app</Link>
         </Typography>
